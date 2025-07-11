@@ -1,0 +1,7 @@
+1. Users should be able to authenticate using pin
+2. User should be able to view the balance
+3, User should be able to with draw the money
+4. User should be able to transfer money to another account
+5. user shoudl be able to see transaction history
+6. It should support multiple Users
+
